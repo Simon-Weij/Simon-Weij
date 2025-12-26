@@ -22,6 +22,7 @@
 - Mainly building full-stack apps
 - Always learning new technologies  
 - Linux enthusiast
+- Currently studying computer science
 ---
 
 
