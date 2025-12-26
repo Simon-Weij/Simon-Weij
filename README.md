@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Simon-Weij/Simon-Weij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,java,kotlin,go)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development
+![Frontend](https://skillicons.dev/icons?i=html,css,angular,svelte)
+
+### Styling & UI
+![Styling](https://skillicons.dev/icons?i=tailwind)
+
+### Backend Development
+![Backend](https://skillicons.dev/icons?i=nestjs,spring)
+
+### DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=docker,bash,nix,linux)
+
+---
+
+## About Me
+- Mainly building full-stack apps
+- Always learning new technologies  
+- Linux enthusiast
+---
+
+
